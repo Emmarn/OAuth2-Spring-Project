@@ -1,6 +1,5 @@
 package com.example.oauthspring;
 
-
 import org.springframework.security.web.authentication.AuthenticationSuccessHandler;
 import org.springframework.security.web.authentication.SimpleUrlAuthenticationSuccessHandler;
 
